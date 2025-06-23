@@ -62,6 +62,8 @@ ClienteApi/
    dotnet run
    ```
 
+> **Nota:** Ao executar pelo Visual Studio, certifique-se de selecionar o perfil **IIS Express** para iniciar a aplicação.
+
 3. **Acessar a documentação Swagger:**
    - [https://localhost:7023/swagger](https://localhost:7023/swagger)
    - ou [http://localhost:5186/swagger](http://localhost:5186/swagger)
